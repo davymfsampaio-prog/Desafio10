@@ -141,7 +141,7 @@ article a:hover {
 
 
 article a[rel="external"]::after {
-    content: ' 🔗';
+    content: ' ';
 }
 
 
